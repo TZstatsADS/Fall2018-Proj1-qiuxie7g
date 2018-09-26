@@ -9,12 +9,12 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2018
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: Happy Moments Analysis Report
++ This project is conducted by Han Gao
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: In this study, we got some results that are consistent with our common sense, like baseball is the most popular sports and dogs bring more happiness than cats. Another touching result is that we found the young generation focuses more on their own, but most of the old people's happiness comes from their partners and children. We also got some results that are surprising and amazing, like we can predict a person's marriage status with a 70% accurate rate by analyzing his/her words of describbing happy moments, which seems impossible.
 
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
++ This folder is orgarnized as follows.
 
 ```
 proj/
